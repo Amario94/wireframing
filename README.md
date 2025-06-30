@@ -45,5 +45,62 @@ Functionality refers to how interactive elements will behave. This can include s
 
 Each of these elements plays a critical role in shaping a user-centered design and improving usability before any visual styling or coding begins.
 
+## Types of Wireframes
+
+Wireframes can be categorized based on their level of detail and fidelity. The two most common types are:
+
+### 1. Low-Fidelity Wireframes
+These are basic, rough sketches that focus on the structure and layout of a page without going into visual detail. They often use placeholders and simple shapes to represent content.
+
+- **Used When**: In the early stages of a project to brainstorm ideas and explore layout options quickly.
+- **Tools Used**: Pen and paper, Balsamiq, or whiteboarding tools.
+- **Benefits**: Fast, easy to modify, encourages feedback and iteration.
+
+**Example**: A hand-drawn sketch of a homepage layout with boxes labeled "Header", "Main Content", and "Footer".
+
+### 2. High-Fidelity Wireframes
+These are more detailed and closer to the final design. They include specific fonts, images, spacing, and even interactions like buttons or dropdowns.
+
+- **Used When**: In the later stages of design, after layout and structure have been finalized.
+- **Tools Used**: Figma, Adobe XD, Sketch.
+- **Benefits**: Provides a realistic representation of the product, useful for developer handoff and stakeholder approval.
+
+**Example**: A digital wireframe with pixel-perfect alignment, real content, and interactive components like form fields and buttons.
+
+---
+
+## What Type of Wireframe Is This?
+
+> _(![image](https://github.com/user-attachments/assets/2ed7be26-a97e-4f67-afbe-cc451a37f2de)
+)_
+
+Based on its level of detail and styling, this appears to be a  "high-fidelity"] wireframe**.
+
+- **Reason**: This wireframe includes detailed design elements that closely resemble the final user interface. Here’s why it qualifies as high-fidelity:
+
+Structured Layout: Clearly defined sections — header, hero section, content blocks, and footer — are neatly arranged.
+
+Typography: Text styles such as headings and body copy use realistic fonts and sizes.
+
+Buttons and Links: Interactive components (like the “Button”) are accurately styled to reflect their function.
+
+Image Placeholders: Visual content is represented with clearly defined image boxes labeled as such.
+
+Grid Alignment and Spacing: Everything is aligned to a clean grid, with consistent padding and spacing — a hallmark of polished design.
+
+Functional Indicators: Links and navigation options are included, suggesting real behavior, not just structure.
+
+🧠 When to Use This Type:
+High-fidelity wireframes are best used later in the design process when:
+
+You need stakeholder approvals.
+
+You’re preparing handoff to developers.
+
+Usability testing is required on detailed screens.
+
+
+
+
 
 
